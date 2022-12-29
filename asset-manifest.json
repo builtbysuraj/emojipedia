@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/emojipedia/static/css/main.9d7ce4ec.css",
+    "main.js": "/emojipedia/static/js/main.034cfa00.js",
+    "index.html": "/emojipedia/index.html",
+    "main.9d7ce4ec.css.map": "/emojipedia/static/css/main.9d7ce4ec.css.map",
+    "main.034cfa00.js.map": "/emojipedia/static/js/main.034cfa00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d7ce4ec.css",
+    "static/js/main.034cfa00.js"
+  ]
+}
