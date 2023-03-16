@@ -140,7 +140,6 @@ const [text, setText] = useState("what's your fav emoji")
     <input onChange={emojiInputHandler} type="text" placeholder='put an emoji here to know the meaning'/>
 
     <h2>{text}</h2>
-    <h3>emojis we know</h3>
     {
       emojisWeKnow.map((emoji) => {
         return <span 
